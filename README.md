@@ -1,6 +1,6 @@
 # MacOS User Scripts
 
-## 1. Adjust MacOS Statusbar spacing to avoid icons from hiding behind the notch (statusbar-space.sh)
+## 1. Adjust MacOS Statusbar spacing to avoid icons from hiding behind the notch ([statusbar-space.sh](statusbar-space.sh))
 #### Usage
 
 Enable (once): `chmod +x statusbar-space.sh`
